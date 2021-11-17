@@ -1,0 +1,48 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering"
+    ],
+    [
+      "Science",
+      "Chemistry"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Hydrology and Water Resource Systems"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "61fab850-8069-6014-ebb0-b7e47b88cb83",
+      "fa29650d-670b-ad8f-428a-ee5a1fcb59c1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Chemicals in the Environment: Fate and Transport",
+  "course_description": "This core class in the Environmental M.Eng. program is for all students interested in the behavior of chemicals in the environment. The emphasis is on man-made chemicals; their movement through water, air, and soil; and their eventual fate. Physical transport, as well as chemical and biological sources and sinks, are discussed. Linkages to health effects, sources and control, and policy aspects are discussed and debated.\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1.725J",
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
